@@ -4,4 +4,16 @@
         <attr name="devide_count" format="integer" />
         <attr name="devide_color" format="color"/>
     </declare-styleable>
+
+    <declare-styleable name="TedImageView">
+        <attr name="foreground" format="reference"/>
+        <attr name="fit_mode" format="string"/>
+    </declare-styleable>
+
+
+
+    <declare-styleable name="TedSquareView">
+        <attr name="matchHeightToWidth" format="boolean"/>
+        <attr name="matchWidthToHeight" format="boolean"/>
+    </declare-styleable>
 </resources>
