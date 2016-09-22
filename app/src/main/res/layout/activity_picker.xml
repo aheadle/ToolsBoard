@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.aheadle.toolsboard.TedBottomPicker.PickerActivity">
+    tools:context="com.aheadle.toolsboard.com.knjin.toolsboard.TedBottomPicker.PickerActivity">
     <Button
         android:text="Show Ted Bottom Picker"
         android:id="@+id/btn_show"

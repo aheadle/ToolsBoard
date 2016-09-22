@@ -1,4 +1,4 @@
-package com.aheadle.toolsboard.TedBottomPicker;
+package com.knjin.toolsboard.TedBottomPicker;
 
 import android.Manifest;
 import android.app.Activity;
@@ -35,7 +35,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.aheadle.toolsboard.R;
-import com.aheadle.toolsboard.TedBottomPicker.adapter.ImageGalleryAdapter;
+import com.knjin.toolsboard.TedBottomPicker.adapter.ImageGalleryAdapter;
 
 import java.io.File;
 import java.io.IOException;

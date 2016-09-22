@@ -32,7 +32,7 @@
 
     </LinearLayout>
 
-    <com.aheadle.toolsboard.Material_Design_Login.UnderlineDevider
+    <com.knjin.toolsboard.Material_Design_Login.UnderlineDevider
         android:id="@+id/underline_v"
         android:layout_width="match_parent"
         android:layout_height="2dp"

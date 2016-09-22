@@ -3,17 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.aheadle.toolsboard.Material_Design_Login.LoginActivity">
-    <com.aheadle.toolsboard.Material_Design_Login.CatchScrollLayout
+    tools:context="com.aheadle.toolsboard.com.knjin.toolsboard.Material_Design_Login.LoginActivity">
+    <com.knjin.toolsboard.Material_Design_Login.CatchScrollLayout
         android:id="@+id/catch_sroll_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:orientation="vertical"
         android:clickable="true">
-    <com.aheadle.toolsboard.Material_Design_Login.SignUpContainer
+    <com.knjin.toolsboard.Material_Design_Login.SignUpContainer
         android:id="@+id/sign_up_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-    </com.aheadle.toolsboard.Material_Design_Login.CatchScrollLayout>
+    </com.knjin.toolsboard.Material_Design_Login.CatchScrollLayout>
 </RelativeLayout>

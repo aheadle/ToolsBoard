@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.aheadle.toolsboard.TedBottomPicker.view.TedSquareFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.knjin.toolsboard.TedBottomPicker.view.TedSquareFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/root"
     android:layout_width="match_parent"
@@ -10,7 +10,7 @@
 
     >
 
-    <com.aheadle.toolsboard.TedBottomPicker.view.TedSquareImageView
+    <com.knjin.toolsboard.TedBottomPicker.view.TedSquareImageView
         android:id="@+id/iv_thumbnail"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -20,4 +20,4 @@
         />
 
 
-</com.aheadle.toolsboard.TedBottomPicker.view.TedSquareFrameLayout>
+</com.knjin.toolsboard.TedBottomPicker.view.TedSquareFrameLayout>

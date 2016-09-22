@@ -1,4 +1,4 @@
-package com.aheadle.toolsboard.TedBottomPicker.adapter;
+package com.knjin.toolsboard.TedBottomPicker.adapter;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -12,9 +12,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.aheadle.toolsboard.R;
-import com.aheadle.toolsboard.TedBottomPicker.TedBottomPicker;
-import com.aheadle.toolsboard.TedBottomPicker.view.TedSquareFrameLayout;
-import com.aheadle.toolsboard.TedBottomPicker.view.TedSquareImageView;
+import com.knjin.toolsboard.TedBottomPicker.TedBottomPicker;
+import com.knjin.toolsboard.TedBottomPicker.view.TedSquareFrameLayout;
+import com.knjin.toolsboard.TedBottomPicker.view.TedSquareImageView;
 import com.bumptech.glide.Glide;
 
 import java.io.File;
