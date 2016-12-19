@@ -13,6 +13,10 @@
     <!-- 向SD卡上写入权限 -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -30,7 +34,10 @@
         <activity android:name="com.knjin.toolsboard.Material_Design_Login.LoginActivity" />
         <activity android:name="com.knjin.toolsboard.TedBottomPicker.PickerActivity" />
         <activity android:name="com.knjin.toolsboard.SearchTransition.searchscreen.SearchActivity" />
-        <activity android:name="com.knjin.toolsboard.SearchTransition.mainscreen.SearchTransitionActivity"></activity>
+        <activity android:name="com.knjin.toolsboard.SearchTransition.mainscreen.SearchTransitionActivity" />
+        <activity android:name="com.knjin.toolsboard.locationmanager.LocationActivity" />
+        <activity android:name="com.knjin.toolsboard.WeChatImage.WeChatImageActivity" />
+        <activity android:name="com.knjin.toolsboard.WeChatImage.EnlargeActivity"></activity>
     </application>
 
 </manifest>

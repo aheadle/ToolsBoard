@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.aheadle.toolsboard.com.knjin.toolsboard.Material_Design_Login.LoginActivity">
+    tools:context="com.knjin.toolsboard.Material_Design_Login.LoginActivity">
     <com.knjin.toolsboard.Material_Design_Login.CatchScrollLayout
         android:id="@+id/catch_sroll_layout"
         android:layout_width="match_parent"
